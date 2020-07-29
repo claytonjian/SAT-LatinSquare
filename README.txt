@@ -1,6 +1,6 @@
 README
 
-Included are the files CMPT_417_Assignment.cpp and qcp2cnf executable
+Determines if Latin Squares are SAT-solvable using the Glucose SAT solver
 
 To compile:
 1 - Go to directory with CMPT_417_Assignment.cpp in command line
